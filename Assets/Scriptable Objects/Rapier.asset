@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: Rapier
   m_EditorClassIdentifier: 
-  id: InventoryItem_Rapier
+  id: _Rapier
   displayName: Rapier
   icon: {fileID: 0}
   prefab: {fileID: 129084, guid: 47acc5b26852c45438ce84bf1364dea1, type: 3}

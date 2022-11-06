@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: RoundWoodShield
   m_EditorClassIdentifier: 
-  id: InventoryItem_RWShield
+  id: Round_Wood_Shield
   displayName: Round Wood Shield
   icon: {fileID: 0}
   prefab: {fileID: 6256616108257625066, guid: 3f1bf1eb280a42941acb0134eccf563b, type: 3}

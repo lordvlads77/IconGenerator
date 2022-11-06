@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: InventoryItem_Bone
   m_EditorClassIdentifier: 
-  id: InventoryItem_Bone
-  displayName: Bone
+  id: Bone_Sword
+  displayName: BoneSword
   icon: {fileID: 0}
   prefab: {fileID: 1006173497052356, guid: 11be0398bf08b574c839d66a800c6174, type: 3}

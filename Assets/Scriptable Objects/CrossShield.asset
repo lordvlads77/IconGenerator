@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: CrossShield
   m_EditorClassIdentifier: 
-  id: InventoryItem_CShield
+  id: Cross_Shield
   displayName: CrossShield
   icon: {fileID: 0}
   prefab: {fileID: 106904, guid: 72e068cb4d9875a4d912ca446ea74cd8, type: 3}

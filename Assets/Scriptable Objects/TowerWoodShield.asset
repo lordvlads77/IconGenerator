@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: TowerWoodShield
   m_EditorClassIdentifier: 
-  id: InventoryItem_TWShield
+  id: _Tower_WShield
   displayName: TowerWoodShield
   icon: {fileID: 0}
   prefab: {fileID: 6454020232461607194, guid: b7f0edf49b0582c428fe30ccbd831a2b, type: 3}

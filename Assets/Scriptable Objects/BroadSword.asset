@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: BroadSword
   m_EditorClassIdentifier: 
-  id: InventoryItem_BroadSword
+  id: Broad_Sword
   displayName: BroadSword
   icon: {fileID: 0}
   prefab: {fileID: 131468, guid: f61def225eac3e247985f6679965a655, type: 3}

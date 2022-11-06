@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: Pike
   m_EditorClassIdentifier: 
-  id: InventoryItem_Pike
+  id: _Pike
   displayName: Pike
   icon: {fileID: 0}
   prefab: {fileID: 2309189308060671904, guid: 72fc84d4624f140498736783e8007a55, type: 3}

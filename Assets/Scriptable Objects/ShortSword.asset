@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: ShortSword
   m_EditorClassIdentifier: 
-  id: InventoryItem_ShortSword
+  id: Short_Sword
   displayName: Short Sword
   icon: {fileID: 0}
   prefab: {fileID: 5778942376948609405, guid: 39ec6af3eb8c70848b3da75dbf39628f, type: 3}

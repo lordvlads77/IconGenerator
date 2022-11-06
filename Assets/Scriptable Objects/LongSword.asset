@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: LongSword
   m_EditorClassIdentifier: 
-  id: InventoryItem_LongSword
+  id: Long_Sword
   displayName: LongSword
   icon: {fileID: 0}
   prefab: {fileID: 8848747155421982902, guid: e18213b527e9be54d9513ce2dd5f3b67, type: 3}

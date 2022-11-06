@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
+  m_Name: StaminaPotion
+  m_EditorClassIdentifier: 
+  id: Stamina_Potion
+  displayName: StaminaPotion
+  icon: {fileID: 0}
+  prefab: {fileID: 146310, guid: f244d85ca954f4336a1a7595053efbfc, type: 3}

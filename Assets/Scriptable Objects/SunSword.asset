@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: SunSword
   m_EditorClassIdentifier: 
-  id: InventoryItem_SunSword
+  id: Sun_Sword
   displayName: SunSword
   icon: {fileID: 0}
   prefab: {fileID: 5096797749881093665, guid: c7349441bb611af45ad4757004d4542b, type: 3}

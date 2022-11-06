@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: CrossSword
   m_EditorClassIdentifier: 
-  id: InventoryItem_CrossSword
+  id: Cross_Sword
   displayName: CrossSword
   icon: {fileID: 0}
   prefab: {fileID: 7186287135004782533, guid: b4cbf94dda63f074da42ceb35b955c22, type: 3}

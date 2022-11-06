@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc484449c3affd43b8a8c3eae9f0767, type: 3}
   m_Name: StylizedRapier
   m_EditorClassIdentifier: 
-  id: InventoryItem_StylizedRapier
+  id: Stylized_Rapier
   displayName: StylizedRapier
   icon: {fileID: 0}
   prefab: {fileID: 626282352945076595, guid: 07386ea35b0703b4b860da37b73db8c3, type: 3}
